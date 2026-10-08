@@ -1,5 +1,8 @@
 # Video & reel scripts
 video-scripts/
 
+# Video & audio files
+Videos/
+
 # macOS files
 .DS_Store
