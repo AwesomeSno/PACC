@@ -12,7 +12,6 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [Flex Sensor 2.2 inch (Spectra Symbol FS-L-055-253-MP)](https://robu.in/product/flex-sensor-2-2-bend-sensor-hand-gesture-recognition/) | Finger bend detection for pinch and tap clicks | 1 | $8.87 | $8.87 | [Robu.in](https://robu.in/product/flex-sensor-2-2-bend-sensor-hand-gesture-recognition/) |
 | [3.7V 500mAh LiPo Battery](https://www.electronicscomp.com/3.7v-500mah-lipo-rechargeable-battery-for-drone?search=lipo%20battery%20500mah%203.7v) | Powers the glove, recharges over USB-C | 1 | $4.62 | $4.62 | [ElectronicsComp](https://www.electronicscomp.com/3.7v-500mah-lipo-rechargeable-battery-for-drone?search=lipo%20battery%20500mah%203.7v) |
 | [Custom 2-Layer PCB (set of 5)](https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006) | The PACC controller board everything mounts on | 1 | $4.00 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006) |
 | [ESP32-S3-WROOM-1-N8R2](https://www.lcsc.com/product-detail/C2913204.html) | Main MCU, BLE HID mouse and USB control | 1 | $4.68 | $4.68 | [LCSC](https://www.lcsc.com/product-detail/C2913204.html) |
@@ -22,8 +21,8 @@
 | [Passives and small parts (resistors, capacitors, 2N2222 transistor, 1N4148 diode, tactile buttons)](https://www.lcsc.com/cart) | Supporting components for the full circuit | 1 | $4.61 | $4.61 | [LCSC](https://www.lcsc.com/cart) |
 | [BNO085](https://robocraze.com/products/bno085-9-dof-orientation-imu-sensor-fusion-nano-breakout-board) | Hand orientation tracking for cursor movement | 1 | $21.89 | $21.89 | [Robocraze](https://robocraze.com/products/bno085-9-dof-orientation-imu-sensor-fusion-nano-breakout-board) |
 | [1027 3V Flat Vibration Motor](https://robu.in/product/1027%203V%20Flat%20Mobile%20Phone%20Vibration%20Motor/) | Haptic feedback on click gestures | 1 | $0.51 | $0.51 | [Robu.in](https://robu.in/product/1027%203V%20Flat%20Mobile%20Phone%20Vibration%20Motor/) |
-| **Parts subtotal** | — | — | — | **$50.27** | — |
+| **Parts subtotal** | — | — | — | **$41.40** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$50.27** | — |
+| **Total** | — | — | — | **$41.40** | — |
 
-$14.73 left of the tier's funding.
+$23.60 left of the tier's funding.
