@@ -13,15 +13,14 @@
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [Custom 2-Layer PCB (set of 5)](https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006) | The PACC controller board everything mounts on | 1 | $4.00 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006) |
-| [ESP32-S3-WROOM-1-N8R2](https://www.lcsc.com/product-detail/C2913204.html) | Main MCU, BLE HID mouse and USB control | 1 | $4.68 | $4.68 | [LCSC](https://www.lcsc.com/product-detail/C2913204.html) |
 | [MCP73831T-2ACI/OT](https://www.lcsc.com/product-detail/C424093.html) | LiPo charge management IC | 1 | $0.78 | $0.78 | [LCSC](https://www.lcsc.com/product-detail/C424093.html) |
 | [TLV75533PDBVR](https://www.lcsc.com/product-detail/C404027.html) | 3.3V LDO regulator | 1 | $0.14 | $0.14 | [LCSC](https://www.lcsc.com/product-detail/C404027.html) |
 | [USB-C Receptacle TYPE-C-31-M-12](https://www.lcsc.com/product-detail/C165948.html) | Charging and wired USB control port | 1 | $0.17 | $0.17 | [LCSC](https://www.lcsc.com/product-detail/C165948.html) |
 | [Passives and small parts (resistors, capacitors, 2N2222 transistor, 1N4148 diode, tactile buttons)](https://www.lcsc.com/cart) | Supporting components for the full circuit | 1 | $4.61 | $4.61 | [LCSC](https://www.lcsc.com/cart) |
 | [BNO085](https://robocraze.com/products/bno085-9-dof-orientation-imu-sensor-fusion-nano-breakout-board) | Hand orientation tracking for cursor movement | 1 | $21.89 | $21.89 | [Robocraze](https://robocraze.com/products/bno085-9-dof-orientation-imu-sensor-fusion-nano-breakout-board) |
 | [1027 3V Flat Vibration Motor](https://robu.in/product/1027%203V%20Flat%20Mobile%20Phone%20Vibration%20Motor/) | Haptic feedback on click gestures | 1 | $0.51 | $0.51 | [Robu.in](https://robu.in/product/1027%203V%20Flat%20Mobile%20Phone%20Vibration%20Motor/) |
-| **Parts subtotal** | — | — | — | **$36.78** | — |
+| **Parts subtotal** | — | — | — | **$32.10** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$36.78** | — |
+| **Total** | — | — | — | **$32.10** | — |
 
-$28.22 left of the tier's funding.
+$32.90 left of the tier's funding.
