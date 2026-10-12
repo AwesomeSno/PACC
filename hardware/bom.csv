@@ -1,0 +1,23 @@
+Reference,Value,Footprint,Qty
+"C3,C4","100n","Capacitor_SMD:C_0603_1608Metric",2
+"R1,R2,R5,R6,R7,R8","10k","Resistor_SMD:R_0603_1608Metric",6
+"C2","10u","Capacitor_SMD:C_0603_1608Metric",1
+"D1","1N4148","Diode_SMD:D_SOD-123",1
+"R10,R13","1k","Resistor_SMD:R_0603_1608Metric",2
+"C1,C7,C8","1u","Capacitor_SMD:C_0603_1608Metric",3
+"Q1","2N2222","Package_TO_SOT_SMD:SOT-23",1
+"BT1","3.7V 500mAh","BatteryHolder",1
+"R9","3.9k","Resistor_SMD:R_0603_1608Metric",1
+"R3,R4","4.7k","Resistor_SMD:R_0603_1608Metric",2
+"C5,C6","4.7u","Capacitor_SMD:C_0603_1608Metric",2
+"R11,R12","5.1k","Resistor_SMD:R_0603_1608Metric",2
+"U2","BNO085","Palma:BNO085_LGA28",1
+"SW1","BOOT","SW_Tactile",1
+"M1","COIN","Motor_Coin",1
+"J2","DEBUG","Connector_PinHeader_1x04",1
+"U1","ESP32-S3-WROOM-1","RF_Module:ESP32-S3-WROOM-1",1
+"U3","MCP73831","Package_TO_SOT_SMD:SOT-23-5",1
+"D2","RED","LED_SMD:LED_0603_1608Metric",1
+"SW2","RESET","SW_Tactile",1
+"U4","TLV75533P","Package_TO_SOT_SMD:SOT-23-5",1
+"J1","USB-C","Connector_USB:USB_C_Receptacle",1

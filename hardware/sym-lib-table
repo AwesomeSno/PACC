@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BNO085")(type "KiCad")(uri "${KIPRJMOD}/BNO085.kicad_sym")(options "")(descr "BNO085 9-axis IMU"))
+)
