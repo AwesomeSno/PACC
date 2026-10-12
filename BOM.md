@@ -16,11 +16,10 @@
 | [MCP73831T-2ACI/OT](https://www.lcsc.com/product-detail/C424093.html) | LiPo charge management IC | 1 | $0.78 | $0.78 | [LCSC](https://www.lcsc.com/product-detail/C424093.html) |
 | [TLV75533PDBVR](https://www.lcsc.com/product-detail/C404027.html) | 3.3V LDO regulator | 1 | $0.14 | $0.14 | [LCSC](https://www.lcsc.com/product-detail/C404027.html) |
 | [USB-C Receptacle TYPE-C-31-M-12](https://www.lcsc.com/product-detail/C165948.html) | Charging and wired USB control port | 1 | $0.17 | $0.17 | [LCSC](https://www.lcsc.com/product-detail/C165948.html) |
-| [Passives and small parts (resistors, capacitors, 2N2222 transistor, 1N4148 diode, tactile buttons)](https://www.lcsc.com/cart) | Supporting components for the full circuit | 1 | $4.61 | $4.61 | [LCSC](https://www.lcsc.com/cart) |
 | [BNO085](https://robocraze.com/products/bno085-9-dof-orientation-imu-sensor-fusion-nano-breakout-board) | Hand orientation tracking for cursor movement | 1 | $21.89 | $21.89 | [Robocraze](https://robocraze.com/products/bno085-9-dof-orientation-imu-sensor-fusion-nano-breakout-board) |
 | [1027 3V Flat Vibration Motor](https://robu.in/product/1027%203V%20Flat%20Mobile%20Phone%20Vibration%20Motor/) | Haptic feedback on click gestures | 1 | $0.51 | $0.51 | [Robu.in](https://robu.in/product/1027%203V%20Flat%20Mobile%20Phone%20Vibration%20Motor/) |
-| **Parts subtotal** | — | — | — | **$32.10** | — |
+| **Parts subtotal** | — | — | — | **$27.49** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$32.10** | — |
+| **Total** | — | — | — | **$27.49** | — |
 
-$32.90 left of the tier's funding.
+$37.51 left of the tier's funding.
