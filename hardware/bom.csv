@@ -1,23 +1,23 @@
-Reference,Value,Footprint,Qty
-"C3,C4","100n","Capacitor_SMD:C_0603_1608Metric",2
-"R1,R2,R5,R6,R7,R8","10k","Resistor_SMD:R_0603_1608Metric",6
-"C2","10u","Capacitor_SMD:C_0603_1608Metric",1
-"D1","1N4148","Diode_SMD:D_SOD-123",1
-"R10,R13","1k","Resistor_SMD:R_0603_1608Metric",2
-"C1,C7,C8","1u","Capacitor_SMD:C_0603_1608Metric",3
-"Q1","2N2222","Package_TO_SOT_SMD:SOT-23",1
-"BT1","3.7V 500mAh","BatteryHolder",1
-"R9","3.9k","Resistor_SMD:R_0603_1608Metric",1
-"R3,R4","4.7k","Resistor_SMD:R_0603_1608Metric",2
-"C5,C6","4.7u","Capacitor_SMD:C_0603_1608Metric",2
-"R11,R12","5.1k","Resistor_SMD:R_0603_1608Metric",2
-"U2","BNO085","Palma:BNO085_LGA28",1
-"SW1","BOOT","SW_Tactile",1
-"M1","COIN","Motor_Coin",1
-"J2","DEBUG","Connector_PinHeader_1x04",1
-"U1","ESP32-S3-WROOM-1","RF_Module:ESP32-S3-WROOM-1",1
-"U3","MCP73831","Package_TO_SOT_SMD:SOT-23-5",1
-"D2","RED","LED_SMD:LED_0603_1608Metric",1
-"SW2","RESET","SW_Tactile",1
-"U4","TLV75533P","Package_TO_SOT_SMD:SOT-23-5",1
-"J1","USB-C","Connector_USB:USB_C_Receptacle",1
+Reference,Value,Footprint,Qty,UnitPrice,TotalPrice,Vendor,Link
+"C3,C4","100nF 50V","Capacitor_SMD:C_0603_1608Metric",2,"$0.01","$0.02","LCSC","https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10B104KB8NNNC_C14663.html"
+"R1,R2,R5,R6,R7,R8","10k 1%","Resistor_SMD:R_0603_1608Metric",6,"$0.005","$0.03","LCSC","https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.html"
+"C2","10uF 25V","Capacitor_SMD:C_0603_1608Metric",1,"$0.03","$0.03","LCSC","https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A106KP8NNNC_C15850.html"
+"D1","1N4148W","Diode_SMD:D_SOD-123",1,"$0.02","$0.02","LCSC","https://www.lcsc.com/product-detail/Diodes-General-Purpose_JCET-1N4148W_C8159.html"
+"R10,R13","1k 1%","Resistor_SMD:R_0603_1608Metric",2,"$0.005","$0.01","LCSC","https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.html"
+"C1,C7,C8","1uF 50V","Capacitor_SMD:C_0603_1608Metric",3,"$0.01","$0.03","LCSC","https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10B105KA8NNNC_C15849.html"
+"Q1","MMBT2222A","Package_TO_SOT_SMD:SOT-23",1,"$0.03","$0.03","LCSC","https://www.lcsc.com/product-detail/Bipolar-Transistors-BJT_CJ-Changjiang-Electronics-Tech-MMBT2222A_C2153.html"
+"BT1","3.7V 500mAh LiPo","BatteryHolder",1,"$3.50","$3.50","Robu.in","https://robu.in/product/3-7v-500mah-lipo-rechargeable-battery/"
+"R9","3.9k 1%","Resistor_SMD:R_0603_1608Metric",1,"$0.005","$0.01","LCSC","https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF3901T5E_C23157.html"
+"R3,R4","4.7k 1%","Resistor_SMD:R_0603_1608Metric",2,"$0.005","$0.01","LCSC","https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF4701T5E_C23164.html"
+"C5,C6","4.7uF 25V","Capacitor_SMD:C_0603_1608Metric",2,"$0.02","$0.04","LCSC","https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A475KP8NNNC_C19666.html"
+"R11,R12","5.1k 1%","Resistor_SMD:R_0603_1608Metric",2,"$0.005","$0.01","LCSC","https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF5101T5E_C23186.html"
+"U2","BNO085","Palma:BNO085_LGA28",1,"$21.89","$21.89","Robocraze","https://robocraze.com/products/bno085-9-dof-orientation-imu-sensor-fusion-nano-breakout-board"
+"SW1","BOOT (TS-1187A)","SW_Tactile",1,"$0.05","$0.05","LCSC","https://www.lcsc.com/product-detail/Tactile-Switches_XKB-Enterprise-TS-1187A-C-A-B_C318884.html"
+"M1","1027 3V Coin Motor","Motor_Coin",1,"$0.51","$0.51","Robu.in","https://robu.in/product/1027%203V%20Flat%20Mobile%20Phone%20Vibration%20Motor/"
+"J2","DEBUG 1x04 2.54mm","Connector_PinHeader_1x04",1,"$0.05","$0.05","LCSC","https://www.lcsc.com/product-detail/Pin-Headers_BOOMELE-Boom-Precision-Elec-C2337_C2337.html"
+"U1","ESP32-S3-WROOM-1","RF_Module:ESP32-S3-WROOM-1",1,"$3.40","$3.40","LCSC","https://www.lcsc.com/product-detail/WiFi-Modules_Espressif-Systems-ESP32-S3-WROOM-1-N8_C2913198.html"
+"U3","MCP73831T-2ACI/OT","Package_TO_SOT_SMD:SOT-23-5",1,"$0.78","$0.78","LCSC","https://www.lcsc.com/product-detail/Battery-Management-ICs_Microchip-Tech-MCP73831T-2ACI-OT_C424093.html"
+"D2","RED 0603 LED","LED_SMD:LED_0603_1608Metric",1,"$0.02","$0.02","LCSC","https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Everlight-Elec-19-217-R6C-AL1M2VY-3T_C2286.html"
+"SW2","RESET (TS-1187A)","SW_Tactile",1,"$0.05","$0.05","LCSC","https://www.lcsc.com/product-detail/Tactile-Switches_XKB-Enterprise-TS-1187A-C-A-B_C318884.html"
+"U4","TLV75533PDBVR","Package_TO_SOT_SMD:SOT-23-5",1,"$0.14","$0.14","LCSC","https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_Texas-Instruments-TLV75533PDBVR_C404027.html"
+"J1","USB-C TYPE-C-31-M-12","Connector_USB:USB_C_Receptacle",1,"$0.17","$0.17","LCSC","https://www.lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html"
